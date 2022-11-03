@@ -1,0 +1,57 @@
+body {
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.mainbox {
+    width: 350px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.box1 {
+    height: 200px;
+    background-color: #90EE90;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo {
+    width: 80px;
+    height: 80px;
+}
+
+.label {
+    background-color: grey;
+    border-radius: 8px;
+    margin-top: 15px;
+    padding: 8px 20px;
+    display: inline-block;    
+}
+
+.heading {
+    margin-top: 10px;    
+}
+
+.text {
+    margin-top: 5px;
+    color: grey;
+    font-size: 25px;
+}
+
+.action {
+    height: 50px;
+    background-color: blue;
+    margin-top: 20px;
+    border-radius: 18px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
